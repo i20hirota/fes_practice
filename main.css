@@ -30,8 +30,10 @@ a {
 p{
   /*color: slategray;*/
   color: slategray;
-  padding: 0px 100px;
+  padding: 0px 0px;
   font-size: 25px;
+  width:80%;
+  margin: 0 auto;
 }
 
 .tema{
@@ -46,15 +48,15 @@ p{
 }
 
 .tema p{
-  padding:20px 100px 40px 100px;
+  padding:20px 0px 40px 0px;
 }
 
 .mogiten{
   margin-bottom: 100px;
+  text-align: center;
 }
 
 .mogiten-title {
-  text-align: center;
   color: rgb(110, 143, 179);
   margin-bottom: 25px;
   /*background-color: slategray;
