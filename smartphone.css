@@ -3,9 +3,8 @@
     font-size: 30px;
   }
 
-  .tema h1 {
-    margin-top: 25px;
-    
+  .tema{
+    margin: 50px 0px;
   }
 
   .tema p{
@@ -13,4 +12,8 @@
     margin-bottom: 0px;
     font-size:20px;
   }
+}
+
+.flyer-img{
+  width: 60%;
 }
