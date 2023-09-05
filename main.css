@@ -75,11 +75,11 @@ p{
   color: rgb(110, 143, 179);
 }
 
-.flyer-img-div{
-  margin: 20px 0px;
+.flyer a{
+  display: block;
+  margin-top:  40px;
 }
 
-.flyer-img{
-  width: 50%;
+.up{
+  font-size: 20px;
 }
-
