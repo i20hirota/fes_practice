@@ -23,6 +23,7 @@ a {
 }
 
 p{
+  /*color: slategray;*/
   color: slategray;
 }
 
@@ -34,8 +35,24 @@ p{
 }
 
 .tema p{
-  padding:0px 40px 40px 40px;
+  padding:20px 40px 40px 40px;
   margin-bottom: 100px;
   font-size: 25px;
+}
+
+.mogiten-title {
+  text-align: center;
+  color: rgb(110, 143, 179);
+  margin-bottom: 25px;
+  /*background-color: slategray;
+  color:white;*/
   
 }
+
+/*.mogiten-title h1{
+  border-radius: 10px;
+  padding: 10px 20px;
+  display: inline-block;
+  background-color: slategray;
+  color:aliceblue;
+}*/
